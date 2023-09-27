@@ -76,7 +76,7 @@ st.markdown(header_style, unsafe_allow_html=True)
 
 # feature_extraction = TfidfVectorizer(min_df=1, stop_words='english', lowercase=True)
 
-user_input = st.text_area(label='Enter the mail:', height=150, 
+user_input = st.text_area(label='Enter the mail message:', height=150, 
              max_chars=1000, 
              help='Enter the Ham or Spam mail and Press crtl + enter')
 
