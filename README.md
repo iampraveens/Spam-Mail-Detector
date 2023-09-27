@@ -41,7 +41,7 @@ streamlit run app.py
 ## Dockerized Web App
 You can also deploy the Spam Mail Detector web application using Docker. Build the Docker image and run the container:
 ```bash
-docker build -t your_docker_username/cspam-mail-detector .
+docker build -t your_docker_username/spam-mail-detector .
 ```
 - To build a docker image.
 
