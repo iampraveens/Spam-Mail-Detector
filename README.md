@@ -6,7 +6,6 @@
 - [Prediction](#prediction)
 - [Usage](#usage)
 - [Dockerized Web App](#dockerized-web-app)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
