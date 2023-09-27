@@ -39,14 +39,14 @@ streamlit run app.py
 - The application will classify the email as "Ham" or "Spam" and display the result.
 
 ## Dockerized Web App
-You can also deploy the Car Price Prediction web application using Docker. Build the Docker image and run the container:
+You can also deploy the Spam Mail Detector web application using Docker. Build the Docker image and run the container:
 ```bash
-docker build -t your_docker_username/car-price-prediction-app .
+docker build -t your_docker_username/cspam-mail-detector .
 ```
 - To build a docker image.
 
 ```bash
-docker run -d -p 8501:8501 your_docker_username/car-price-prediction-app
+docker run -d -p 8501:8501 your_docker_username/spam-mail-detector
 ```
 - To run as a container.
 
