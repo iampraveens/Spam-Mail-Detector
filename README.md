@@ -1,4 +1,4 @@
-# Spam Mail Detector <img src="https://cdn-icons-png.flaticon.com/512/9275/9275788.png" alt="Car Price Prediction" width="50" height="50">
+  # Spam Mail Detector <img src="https://cdn-icons-png.flaticon.com/512/9275/9275788.png" alt="Car Price Prediction" width="50" height="50">
 
 ## Table of Contents
 - [About](#about)
@@ -17,7 +17,7 @@ To get started with this project, you'll need Python and a few libraries install
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/iampraveens/https://github.com/iampraveens/Spam-Mail-Detector.git
+git clone https://github.com/iampraveens/Spam-Mail-Detector.git
 ```
 2. Install the required Python packages:
 
